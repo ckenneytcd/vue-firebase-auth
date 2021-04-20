@@ -7,13 +7,13 @@ import store from "./store";
 Vue.config.productionTip = false;
 
 const configOptions = {
-  apiKey: "",
-  authDomain: "vue-firebase-auth-2802d.firebaseapp.com",
-  databaseURL: "https://vue-firebase-auth-2802d.firebaseio.com",
-  projectId: "vue-firebase-auth-2802d",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyCLexrwToi2Zf-87MnG_ZmGbFXmV4P3aVE",
+  authDomain: "se-tester-d62e1.firebaseapp.com",
+  projectId: "se-tester-d62e1",
+  storageBucket: "se-tester-d62e1.appspot.com",
+  messagingSenderId: "736448836199",
+  appId: "1:736448836199:web:bb74a18ecdc369689b9ac2",
+  measurementId: "G-GMJWSRPB19"
 };
 
 firebase.initializeApp(configOptions);
